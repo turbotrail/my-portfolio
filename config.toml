@@ -1,0 +1,61 @@
+
+baseURL = "https://yourdomain.com/"
+languageCode = "en-us"
+title = "Jeyaprakash's Portfolio"
+theme = "PaperMod"
+
+[params]
+  author = "Jeyaprakash Senguttuvan"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  showtoc = true
+  TocOpen = true
+  homeInfoParams = { Title = "Hi, I'm Jeyaprakash 👋", Content = "Software Engineer | AI Developer | Cloud Enthusiast" }
+
+  socialIcons = [
+    { name = "github", url = "https://github.com/turbotrail" },
+    { name = "linkedin", url = "https://linkedin.com/in/jeyaprakashsenguttuvan" },
+    { name = "email", url = "mailto:jeyaprakashsenguttuvan@gmail.com" }
+  ]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "skills"
+    name = "Skills"
+    url = "/skills/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]  # enable search
