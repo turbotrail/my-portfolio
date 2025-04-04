@@ -58,4 +58,4 @@ theme = "PaperMod"
     weight = 6
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]  # enable search
+  home = ["HTML"]  # enable search
