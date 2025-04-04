@@ -11,7 +11,13 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   showtoc = true
   TocOpen = true
-  homeInfoParams = { Title = "Hi, I'm Jeyaprakash 👋", Content = "Software Engineer | AI Developer | Cloud Enthusiast" }
+  homeInfoParams = { Title = "Hi, I'm Jeyaprakash 👋", Content = "Software Engineer | AI Developer | Cloud Enthusiast | Currently Researching Geomagnetic storms" }
+  ShowPostNavLinks = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  ShowPageThumbnail = true
 
   socialIcons = [
     { name = "github", url = "https://github.com/turbotrail" },
