@@ -13,10 +13,7 @@ theme = "PaperMod"
   TocOpen = true
   homeInfoParams = { Title = "Hi, I'm Jeyaprakash 👋", Content = "Software Engineer | AI Developer | Cloud Enthusiast | Currently Researching Geomagnetic storms" }
   ShowPostNavLinks = true
-  ShowReadingTime = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowFullTextinRSS = true
   ShowPageThumbnail = true
 
   socialIcons = [
