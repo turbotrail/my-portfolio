@@ -5,12 +5,10 @@
 &lt;li>macOS system&lt;/li>
 &lt;li>RTL-SDR USB tuner&lt;/li>
 &lt;li>CubicSDR software&lt;/li>
-&lt;li>Home-built V-Dipole antenna (or equivalent)&lt;/li>
+&lt;li>Home-built V-Dipole antenna (or equivalent) You can see the Antenna here &lt;a href="../../IMG_0124.HEIC">Antenna&lt;/a>&lt;/li>
 &lt;li>Rust + GTK3 for building the decoder&lt;/li>
 &lt;li>Python and &lt;code>pydub&lt;/code> for WAV conversion (optional)&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="-step-1-install-prerequisites">🔧 Step 1: Install Prerequisites&lt;/h2>
-&lt;p>Install &lt;a href="https://brew.sh/">Homebrew&lt;/a> if not already installed:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>/bin/bash -c &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh&lt;span style="color:#66d9ef">)&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Install Rust and GTK3:&lt;/p></description></item></channel></rss>
+&lt;p>Install &lt;a href="https://brew.sh/">Homebrew&lt;/a> if not already installed:&lt;/p></description></item></channel></rss>
