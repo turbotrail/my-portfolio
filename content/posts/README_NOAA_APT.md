@@ -1,5 +1,8 @@
-
-# 🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)
+---
+title: "🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)"
+date: 2025-05-06
+tags: ["Space Weather", "NOAA APT", "Satellite Tech", "Systems Engineering", "Resilient Tech"]
+---
 
 This guide outlines how I successfully installed [`noaa-apt`](https://github.com/martinber/noaa-apt) on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.
 
