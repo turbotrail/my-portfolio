@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>NOAA APT on Jeyaprakash's Portfolio</title><link>https://turbotrail.github.io/my-portfolio/tags/noaa-apt/</link><description>Recent content in NOAA APT on Jeyaprakash's Portfolio</description><generator>Hugo -- 0.147.1</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://turbotrail.github.io/my-portfolio/tags/noaa-apt/index.xml" rel="self" type="application/rss+xml"/><item><title>🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)</title><link>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</guid><description>&lt;p>This guide outlines how I successfully installed &lt;a href="https://github.com/martinber/noaa-apt">&lt;code>noaa-apt&lt;/code>&lt;/a> on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.&lt;/p>
+&lt;hr>
+&lt;h2 id="-what-you-need">🚀 What You Need&lt;/h2>
+&lt;ul>
+&lt;li>macOS system&lt;/li>
+&lt;li>RTL-SDR USB tuner&lt;/li>
+&lt;li>CubicSDR software&lt;/li>
+&lt;li>Home-built V-Dipole antenna (or equivalent)&lt;/li>
+&lt;li>Rust + GTK3 for building the decoder&lt;/li>
+&lt;li>Python and &lt;code>pydub&lt;/code> for WAV conversion (optional)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-step-1-install-prerequisites">🔧 Step 1: Install Prerequisites&lt;/h2>
+&lt;p>Install &lt;a href="https://brew.sh/">Homebrew&lt;/a> if not already installed:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>/bin/bash -c &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh&lt;span style="color:#66d9ef">)&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Install Rust and GTK3:&lt;/p></description></item></channel></rss>
