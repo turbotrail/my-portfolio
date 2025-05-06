@@ -13,7 +13,7 @@ This guide outlines how I successfully installed [`noaa-apt`](https://github.com
 - macOS system
 - RTL-SDR USB tuner
 - CubicSDR software
-- Home-built V-Dipole antenna (or equivalent)
+- Home-built V-Dipole antenna (or equivalent) You can see the Antenna here [Antenna](../../IMG_0124.HEIC)
 - Rust + GTK3 for building the decoder
 - Python and `pydub` for WAV conversion (optional)
 
