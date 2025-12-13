@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>NOAA APT on Jeyaprakash's Portfolio</title><link>https://turbotrail.github.io/my-portfolio/tags/noaa-apt/</link><description>Recent content in NOAA APT on Jeyaprakash's Portfolio</description><generator>Hugo -- 0.147.1</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://turbotrail.github.io/my-portfolio/tags/noaa-apt/index.xml" rel="self" type="application/rss+xml"/><item><title>🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)</title><link>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</guid><description>&lt;p>This guide outlines how I successfully installed &lt;a href="https://github.com/martinber/noaa-apt">&lt;code>noaa-apt&lt;/code>&lt;/a> on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.&lt;/p>
-&lt;hr>
-&lt;h2 id="-what-you-need">🚀 What You Need&lt;/h2>
-&lt;ul>
-&lt;li>macOS system&lt;/li>
-&lt;li>RTL-SDR USB tuner&lt;/li>
-&lt;li>CubicSDR software&lt;/li>
-&lt;li>Home-built V-Dipole antenna (or equivalent) You can see the Antenna here &lt;a href="../../IMG_0124.HEIC">Antenna&lt;/a>&lt;/li>
-&lt;li>Rust + GTK3 for building the decoder&lt;/li>
-&lt;li>Python and &lt;code>pydub&lt;/code> for WAV conversion (optional)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-step-1-install-prerequisites">🔧 Step 1: Install Prerequisites&lt;/h2>
-&lt;p>Install &lt;a href="https://brew.sh/">Homebrew&lt;/a> if not already installed:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>NOAA APT on Jeyaprakash's Portfolio</title><link>https://turbotrail.github.io/my-portfolio/tags/noaa-apt/</link><description>Recent content in NOAA APT on Jeyaprakash's Portfolio</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://turbotrail.github.io/my-portfolio/tags/noaa-apt/index.xml" rel="self" type="application/rss+xml"/><item><title>🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)</title><link>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</guid><description>&lt;p&gt;This guide outlines how I successfully installed &lt;a href="https://github.com/martinber/noaa-apt"&gt;&lt;code&gt;noaa-apt&lt;/code&gt;&lt;/a&gt; on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-what-you-need"&gt;🚀 What You Need&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS system&lt;/li&gt;
+&lt;li&gt;RTL-SDR USB tuner&lt;/li&gt;
+&lt;li&gt;CubicSDR software&lt;/li&gt;
+&lt;li&gt;Home-built V-Dipole antenna (or equivalent) You can see the Antenna here &lt;a href="../../IMG_0124.HEIC"&gt;Antenna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rust + GTK3 for building the decoder&lt;/li&gt;
+&lt;li&gt;Python and &lt;code&gt;pydub&lt;/code&gt; for WAV conversion (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-step-1-install-prerequisites"&gt;🔧 Step 1: Install Prerequisites&lt;/h2&gt;
+&lt;p&gt;Install &lt;a href="https://brew.sh/"&gt;Homebrew&lt;/a&gt; if not already installed:&lt;/p&gt;</description></item></channel></rss>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Satellite Tech on Jeyaprakash's Portfolio</title><link>https://turbotrail.github.io/my-portfolio/tags/satellite-tech/</link><description>Recent content in Satellite Tech on Jeyaprakash's Portfolio</description><generator>Hugo -- 0.147.1</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://turbotrail.github.io/my-portfolio/tags/satellite-tech/index.xml" rel="self" type="application/rss+xml"/><item><title>🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)</title><link>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</guid><description>&lt;p>This guide outlines how I successfully installed &lt;a href="https://github.com/martinber/noaa-apt">&lt;code>noaa-apt&lt;/code>&lt;/a> on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.&lt;/p>
-&lt;hr>
-&lt;h2 id="-what-you-need">🚀 What You Need&lt;/h2>
-&lt;ul>
-&lt;li>macOS system&lt;/li>
-&lt;li>RTL-SDR USB tuner&lt;/li>
-&lt;li>CubicSDR software&lt;/li>
-&lt;li>Home-built V-Dipole antenna (or equivalent) You can see the Antenna here &lt;a href="../../IMG_0124.HEIC">Antenna&lt;/a>&lt;/li>
-&lt;li>Rust + GTK3 for building the decoder&lt;/li>
-&lt;li>Python and &lt;code>pydub&lt;/code> for WAV conversion (optional)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-step-1-install-prerequisites">🔧 Step 1: Install Prerequisites&lt;/h2>
-&lt;p>Install &lt;a href="https://brew.sh/">Homebrew&lt;/a> if not already installed:&lt;/p></description></item><item><title>Have You Factored in Space Weather? ⚡🛰️</title><link>https://turbotrail.github.io/my-portfolio/posts/factored-in-space-weather-featured/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/factored-in-space-weather-featured/</guid><description>&lt;p>We often design for &lt;strong>heat&lt;/strong>, &lt;strong>vibration&lt;/strong>, &lt;strong>EMI&lt;/strong>, or &lt;strong>power surges&lt;/strong> — but what about &lt;strong>geomagnetic storms&lt;/strong>?&lt;/p>
-&lt;p>A &lt;strong>geomagnetic storm&lt;/strong> is a large-scale disturbance of Earth’s magnetic field, triggered by solar flares or coronal mass ejections (CMEs). When high-energy charged particles from the Sun hit our magnetosphere, they can induce powerful currents and electromagnetic effects.&lt;/p>
-&lt;h3 id="-why-this-matters-to-us-in-tech">🎯 Why this matters to us in tech:&lt;/h3>
-&lt;ul>
-&lt;li>🔹 &lt;strong>Satellite Systems&lt;/strong>: GPS, communications, and observation satellites face single-event upsets and orbital drag issues&lt;/li>
-&lt;li>🔹 &lt;strong>Power Grids&lt;/strong>: Geomagnetically induced currents (GICs) can stress transformers and cause major blackouts&lt;/li>
-&lt;li>🔹 &lt;strong>Aviation &amp;amp; Navigation&lt;/strong>: Polar flight routes and GNSS accuracy can be heavily impacted&lt;/li>
-&lt;li>🔹 &lt;strong>Pipelines &amp;amp; Subsea Cables&lt;/strong>: Even underground infrastructure can suffer corrosion and current imbalance&lt;/li>
-&lt;/ul>
-&lt;p>As we move deeper into IoT, space systems, AI navigation, and satellite constellations, &lt;strong>space weather resilience&lt;/strong> becomes mission-critical.&lt;br>
-The systems we build won’t just need to be fault-tolerant — they’ll need to be &lt;em>space-aware&lt;/em>. ☀️&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Satellite Tech on Jeyaprakash's Portfolio</title><link>https://turbotrail.github.io/my-portfolio/tags/satellite-tech/</link><description>Recent content in Satellite Tech on Jeyaprakash's Portfolio</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://turbotrail.github.io/my-portfolio/tags/satellite-tech/index.xml" rel="self" type="application/rss+xml"/><item><title>🛰️ NOAA APT Decoder Setup on macOS (RTL-SDR + CubicSDR + noaa-apt)</title><link>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/readme_noaa_apt/</guid><description>&lt;p&gt;This guide outlines how I successfully installed &lt;a href="https://github.com/martinber/noaa-apt"&gt;&lt;code&gt;noaa-apt&lt;/code&gt;&lt;/a&gt; on macOS, recorded NOAA satellite signals using CubicSDR and an RTL-SDR dongle, converted the audio files, and decoded the satellite image.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-what-you-need"&gt;🚀 What You Need&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS system&lt;/li&gt;
+&lt;li&gt;RTL-SDR USB tuner&lt;/li&gt;
+&lt;li&gt;CubicSDR software&lt;/li&gt;
+&lt;li&gt;Home-built V-Dipole antenna (or equivalent) You can see the Antenna here &lt;a href="../../IMG_0124.HEIC"&gt;Antenna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rust + GTK3 for building the decoder&lt;/li&gt;
+&lt;li&gt;Python and &lt;code&gt;pydub&lt;/code&gt; for WAV conversion (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-step-1-install-prerequisites"&gt;🔧 Step 1: Install Prerequisites&lt;/h2&gt;
+&lt;p&gt;Install &lt;a href="https://brew.sh/"&gt;Homebrew&lt;/a&gt; if not already installed:&lt;/p&gt;</description></item><item><title>Have You Factored in Space Weather? ⚡🛰️</title><link>https://turbotrail.github.io/my-portfolio/posts/factored-in-space-weather-featured/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://turbotrail.github.io/my-portfolio/posts/factored-in-space-weather-featured/</guid><description>&lt;p&gt;We often design for &lt;strong&gt;heat&lt;/strong&gt;, &lt;strong&gt;vibration&lt;/strong&gt;, &lt;strong&gt;EMI&lt;/strong&gt;, or &lt;strong&gt;power surges&lt;/strong&gt; — but what about &lt;strong&gt;geomagnetic storms&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;geomagnetic storm&lt;/strong&gt; is a large-scale disturbance of Earth’s magnetic field, triggered by solar flares or coronal mass ejections (CMEs). When high-energy charged particles from the Sun hit our magnetosphere, they can induce powerful currents and electromagnetic effects.&lt;/p&gt;
+&lt;h3 id="-why-this-matters-to-us-in-tech"&gt;🎯 Why this matters to us in tech:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Satellite Systems&lt;/strong&gt;: GPS, communications, and observation satellites face single-event upsets and orbital drag issues&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Power Grids&lt;/strong&gt;: Geomagnetically induced currents (GICs) can stress transformers and cause major blackouts&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Aviation &amp;amp; Navigation&lt;/strong&gt;: Polar flight routes and GNSS accuracy can be heavily impacted&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Pipelines &amp;amp; Subsea Cables&lt;/strong&gt;: Even underground infrastructure can suffer corrosion and current imbalance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As we move deeper into IoT, space systems, AI navigation, and satellite constellations, &lt;strong&gt;space weather resilience&lt;/strong&gt; becomes mission-critical.&lt;br&gt;
+The systems we build won’t just need to be fault-tolerant — they’ll need to be &lt;em&gt;space-aware&lt;/em&gt;. ☀️&lt;/p&gt;</description></item></channel></rss>
