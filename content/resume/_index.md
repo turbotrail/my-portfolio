@@ -3,13 +3,18 @@
 
 You can [download the PDF version here](../../Jeyaprakash_Resume_Latest.pdf)
 
-## Current Role
-**Lead 2, Software Development** – *Kyndryl India (Oct 2022 - Present)*  
+
+## Experience
+
+### Technical Lead 2 , Gen AI – *CitiusTech  (July 2025 - September 2025)*
+- Led Gen AI initiatives, building LLM-based solutions for healthcare clients.
+- Developed AI agents for data enrichment, customer support, and predictive analytics.
+- Architected scalable AI pipelines using cloud services and vector databases.
+
+### Lead 2, Software Development** – *Kyndryl India (Oct 2022 - June 2025)*  
 - Architected data lake pipelines using AWS Glue, Lake Formation, GCP BigQuery.
 - Developed ML modules for monitoring and anomaly detection.
 - Built LLM-RAG apps using Chroma, embedding & retrieval.
-
-## Previous Experience
 
 ### ICU Medical India LLP – *Sr. Software Engineer (Feb 2022 - Oct 2022)*
 - Maintained automation scripts for UI testing of embedded infusion pump systems.
