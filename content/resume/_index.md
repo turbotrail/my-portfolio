@@ -1,7 +1,7 @@
 
 # Resume
 
-You can [download the PDF version here](../../resume.pdf)
+You can [download the PDF version here](/my-portfolio/resume.pdf)
 
 
 ## Experience
