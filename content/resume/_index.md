@@ -1,7 +1,7 @@
 
 # Resume
 
-You can [download the PDF version here](/Jeyaprakash_Resume_Latest.pdf)
+You can [download the PDF version here](../../Jeyaprakash_Resume_Latest.pdf)
 
 
 ## Experience
