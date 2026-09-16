@@ -15,6 +15,7 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowPageThumbnail = true
+  mainSections = []
 
   socialIcons = [
     { name = "github", url = "https://github.com/turbotrail" },
