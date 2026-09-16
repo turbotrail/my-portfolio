@@ -28,7 +28,7 @@ My work sits at the intersection of **software, electronics, Earth science, and 
 
 
 ### 🛠️ Tech I work with
-- **Languages:** Python , Java
+- **Languages:** Python
 - **Backend & APIs:** FastAPI, REST , FastMCP
 - **AI & Data:** LLMs, RAG, embeddings, vector DBs, Azure AI Search, ADK , Agentic AI , GCP
 - **Infra & DevOps:** Docker, GitHub Actions, Linux, self-hosting  
